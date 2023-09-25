@@ -1,2 +1,3 @@
-git.code1.txt???~~~the개발개발개발
+git.code1.txt???~~~the버그도 고치고 개발도 하고
+git.code1.txt???~~~the
 sixth...
